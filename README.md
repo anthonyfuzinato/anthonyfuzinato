@@ -8,7 +8,7 @@
 ![Anthony GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyfuzinato&show_icons=true&theme=dark)
 
 ## technologies I use
-<div style= "display: inline_block"><br/>
+<div style= "display: inline_block">
     <img align= "center" alt ="Python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img align= "center" alt ="C#" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img align= "center" alt ="Html" src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,3 +19,5 @@ I am brazilian, I study and live in portugal, I am passionate about programming 
 ## Contacts
 - [Instagram](https://www.instagram.com/thonyyyyy_/)
 
+##
+<img width="100%" src="https://camo.githubusercontent.com/6067b8e545633756bea2152c6aa2cbc24a6b0d4814d1a8fd974cc6121936958e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d343233413545266865696768743d3138302673656374696f6e3d666f6f74657226746578743d576861742b492b646f6e27742b6b6e6f772532432b676976652b6d652b612b6665772b6461797326666f6e7453697a653d333026666f6e74436f6c6f723d36343734423926616e696d6174696f6e3d7477696e6b6c696e6726666f6e74416c69676e593d3535" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=423A5E&amp;height=180&amp;section=header&amp;text=Anthony&amp;fontSize=30&amp;fontColor=6474B9&amp;animation=twinkling&amp;fontAlignY=35" style="max-width: 100%;">
