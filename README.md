@@ -17,6 +17,7 @@
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+    <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
     <img align="center" alt="Flowgorithm" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Flowgorithm_Logo.svg" width="130" height="200" />
 </div><br/>
 I am brazilian, I study and live in portugal, I am passionate about programming and I love to improve my knowledge in the area
