@@ -9,7 +9,7 @@
 
 ![Anthony GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyfuzinato&show_icons=true&theme=dark)
 
-## technologies I use
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <div style= "display: inline_block">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
