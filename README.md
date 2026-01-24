@@ -2,6 +2,7 @@
 
 <h3 align="center">👋 Hello, I'm Anthony, Coder 👋</h3>
 📍 Portugal | 🇧🇷 Brazilian
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/thonyyyyy_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-fuzinato-2474a7260/)
 
