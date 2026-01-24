@@ -2,7 +2,7 @@
 
 <h3 align="center">👋 Hello, I'm Anthony, Coder 👋</h3>
 📍 Portugal | Brazilian | Italian
-
+<br><br/>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/thonyyyyy_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-fuzinato-2474a7260/)
 
@@ -27,8 +27,10 @@
 I am brazilian, I study and live in portugal, I am passionate about programming and I love to improve my knowledge in the area
 
 ## Contacts
-- [Instagram](https://www.instagram.com/thonyyyyy_/)
-- [LinkedIn](https://www.linkedin.com/in/anthony-fuzinato-2474a7260/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thonyyyyy_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-fuzinato-2474a7260/)
+
 ##
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&text=What%20I%20don%27t%20know%2C%20give%20me%20a%20few%20days&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55" />
