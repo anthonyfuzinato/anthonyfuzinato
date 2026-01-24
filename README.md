@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=VENI%20VIDI%20VICI&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35" />
 
 <h3 align="center">👋 Hello, I'm Anthony, Coder 👋</h3>
-📍 Portugal | 🇧🇷 Brazilian
+📍 Portugal | Brazilian | Italian
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/thonyyyyy_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-fuzinato-2474a7260/)
