@@ -1,4 +1,4 @@
-<img width="100%" src="https://camo.githubusercontent.com/6c0af844d82bd78a9db190831ef6ef4c08e3a4282f25305d599421c0bdcdbe0a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d343233413545266865696768743d3138302673656374696f6e3d68656164657226746578743d56454e492b564944492b5649434926666f6e7453697a653d333026666f6e74436f6c6f723d36343734423926616e696d6174696f6e3d7477696e6b6c696e6726666f6e74416c69676e593d3335" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=423A5E&amp;height=180&amp;section=header&amp;text=Anthony&amp;fontSize=30&amp;fontColor=6474B9&amp;animation=twinkling&amp;fontAlignY=35" style="max-width: 100%;">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=VENI%20VIDI%20VICI&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35" />
 
 ### 👋 Hello, I'm Anthony, Coder 👋
 
