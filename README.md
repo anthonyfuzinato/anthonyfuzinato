@@ -24,7 +24,7 @@
     <img align="center" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/>
     <img align="center" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/>
     <img align="center" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-    <img align="center" alt="Cisco Packet Tracer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="50"/>
+    <img align="center" alt="Cisco Packet Tracer" src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
     <img align="center" alt="Flowgorithm" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Flowgorithm_Logo.svg" height="40" />
 </div><br/>
 I am brazilian, I study and live in portugal, I am passionate about programming and I love to improve my knowledge in the area
