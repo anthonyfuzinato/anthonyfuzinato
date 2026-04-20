@@ -25,8 +25,8 @@
     <img align="center" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/>
     <img align="center" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
 </div><br>
-Computer Science student based in Portugal 🇵🇹  
-Focused on backend development, mobile apps, and databases  
+Computer Science student based in Portugal 🇵🇹  <br>
+Focused on backend development, mobile apps, and databases <br> 
 Passionate about building real-world solutions and constantly improving 🚀
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyfuzinato&show_icons=true&theme=tokyonight)
