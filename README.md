@@ -29,6 +29,9 @@
 </div><br/>
 I am brazilian, I study and live in portugal, I am passionate about programming and I love to improve my knowledge in the area
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyfuzinato&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyfuzinato&layout=compact&theme=tokyonight)
+
 ## Contacts
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thonyyyyy_/)
