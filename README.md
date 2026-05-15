@@ -29,10 +29,6 @@ Computer Science student based in Portugal 🇵🇹  <br>
 Focused on backend development, mobile apps, and databases <br> 
 Passionate about building real-world solutions and constantly improving 🚀
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyfuzinato&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyfuzinato&layout=compact&theme=tokyonight)
-
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&text=What%20I%20don%27t%20know%2C%20give%20me%20a%20few%20days&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55" />
 
